@@ -1,13 +1,14 @@
 ## What I have created
-
 ---
-
+- By placing my notes here, I wanted to try and showcase py thought- process and how I created the project. This was my first time craeting a CSS loader and will plan on making one every two days (from the day of this commit)!
 - I have created a black hole loading screen, this code creates a circular gradient loader animation with a blur effect.
 - The loader's continuous rotation and blur imply ongoing background activity, commonly used as a visual cue for loading or processing states in web applications. The design is minimal yet visually engaging, drawing the user's attention while they wait.
 
 ---
 
 ## Feedback, general ideas to improve work
+--- 
+-By learning to incorporate this into an actual project when needed, for example this could be done when navigating from say the homepage to the product section on an e-commerce site
 
 ### EXTRA NOTES AND PIECES 
 ```html
